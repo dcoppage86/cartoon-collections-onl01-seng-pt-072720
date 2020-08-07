@@ -5,6 +5,7 @@ end
 
 def summon_captain_planet(elements)
   long_planeteer_calls = []
+  elements.collect do
 end
 
 def long_planeteer_calls# code an argument here
