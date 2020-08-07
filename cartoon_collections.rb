@@ -1,4 +1,5 @@
 def roll_call_dwarves(dwarves)
+  index = 0 
   
 end
 
