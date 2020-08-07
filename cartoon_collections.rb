@@ -6,7 +6,7 @@ end
 def summon_captain_planet(elements)
   planeteer_calls = []
   elements.collect do [calls]
-    planeteer_calls << 
+    planeteer_calls << "#{planeteer_calls.capitolize"
 end
 
 def long_planeteer_calls# code an argument here
